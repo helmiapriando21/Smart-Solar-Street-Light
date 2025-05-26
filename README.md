@@ -53,7 +53,7 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 8. **LCD/OLED display** menampilkan informasi lokal.
 9. **Kamera (opsional)** untuk pengawasan area lampu.
     
-# 🧩 Diagram Blok Sistem
+## 🧩 Diagram Blok Sistem
 ![Diagram Blok Sistem](Diagram-Blok-Sistem.png)
 
 ## 💥Desain Sistem UI/UX
@@ -61,10 +61,9 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 
 ### 💽 Hardware
 
-# 📸 Demo / Ilustrasi
+## 📸 Demo / Ilustrasi
 
-# 🫂 Kelompok 2
+## 🫂 Kelompok 2
 1. **105221004 | Helmi Apriando**
 2. **105221027 | Mohamad Reza Pahlevi**
 
-[LinkedIn/GitHub/Website jika ada]
