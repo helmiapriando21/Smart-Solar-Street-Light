@@ -1,4 +1,4 @@
-🌞 Smart Solar Street Light (Remote Monitor)
+#🌞 Smart Solar Street Light (Remote Monitor)
 📖 Deskripsi Proyek
 Smart Solar Street Light (Remote Monitor) adalah sistem lampu jalan pintar berbasis energi surya yang dapat dipantau secara jarak jauh.
 Sistem ini dirancang untuk:
