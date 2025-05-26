@@ -58,7 +58,7 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 # 🧩 Diagram Blok Sistem
 ![Diagram Blok Sistem](Diagram-Blok-Sistem.png)
 
-# 💥Desain Sistme UI/UX
+# 💥Desain Sistem UI/UX
 ## 📱 Software
 
 ## 💽 Hardware
