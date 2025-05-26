@@ -4,9 +4,9 @@ Smart Solar Street Light adalah sistem lampu jalan pintar berbasis energi surya 
 
 ## 🎯 Sistem ini dirancang untuk:
 
-* Menghemat energi dengan mengontrol lampu jalan secara otomatis.
+- Menghemat energi dengan mengontrol lampu jalan secara otomatis.
 
-* Memantau status lampu secara real-time melalui platform cloud.
+- Memantau status lampu secara real-time melalui platform cloud.
 
 # 🌍 Kontribusi terhadap SDGs
 ✅ SDG 7 - Clean Energy
@@ -18,18 +18,6 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 * Pemantauan status lampu secara real-time melalui koneksi cloud.
 
 * Ramah lingkungan dan efisien dalam penggunaan energi.
-
-## 📌 Cara Kerja Sistem
-
-1. **Energi Matahari** mengisi baterai melalui **solar panel** dan **solar charge controller**.
-2. **LDR** mendeteksi terang/gelap untuk menentukan waktu siang/malam.
-3. **PIR sensor** mendeteksi keberadaan manusia.
-4. **RTC module** memastikan waktu aktual sebagai cadangan logika waktu.
-5. **DHT11/DHT22** mencatat suhu dan kelembapan lingkungan.
-6. **ESP32** sebagai otak sistem mengolah data dari sensor dan mengirim ke cloud.
-7. **Relay Switch** mengontrol nyala/mati **lampu LED**.
-8. **LCD/OLED display** menampilkan informasi lokal.
-9. **Kamera (opsional)** untuk pengawasan area lampu.
 
 # 🧰 Teknologi yang Digunakan
 ## 📦 Komponen Perangkat Keras
@@ -55,24 +43,30 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 | 4   | RTC Module          | Menyediakan waktu dan tanggal yang akurat                              |
 | 5   | Cloud (Firebase / Blynk) | Platform monitoring dan kontrol jarak jauh                       |
 
+## 📌 Cara Kerja Sistem
 
-# 🏁 Cara Kerja
-Panel surya mengisi baterai.
-
-Sensor mendeteksi kondisi lingkungan.
-
-Mikrokontroler mengontrol lampu berdasarkan data sensor dan waktu.
-
-Data dikirim ke platform cloud untuk pemantauan jarak jauh.
-
+1. **Energi Matahari** mengisi baterai melalui **solar panel** dan **solar charge controller**.
+2. **LDR** mendeteksi terang/gelap untuk menentukan waktu siang/malam.
+3. **PIR sensor** mendeteksi keberadaan manusia.
+4. **RTC module** memastikan waktu aktual sebagai cadangan logika waktu.
+5. **DHT11/DHT22** mencatat suhu dan kelembapan lingkungan.
+6. **ESP32** sebagai otak sistem mengolah data dari sensor dan mengirim ke **Cloud**.
+7. **Relay Switch** mengontrol nyala/mati **lampu LED**.
+8. **LCD/OLED display** menampilkan informasi lokal.
+9. **Kamera (opsional)** untuk pengawasan area lampu.
+    
 # 🧩 Diagram Blok Sistem
 ![Diagram Blok Sistem](Diagram-Blok-Sistem.png)
+
+# 📱 Desasin Sitem Software
+
+# 💽 Desain Sitem Hardware
 
 # 📸 Demo / Ilustrasi
 (Sisipkan diagram, foto prototipe, atau link video demo)
 
 # 👤 Kelompok 2
-1. 105221004 | Helmi Apriando
-2. 105221027 | Mohamad Reza Pahlevi
+**1. 105221004 | Helmi Apriando
+2. 105221027 | Mohamad Reza Pahlevi**
 
 [LinkedIn/GitHub/Website jika ada]
