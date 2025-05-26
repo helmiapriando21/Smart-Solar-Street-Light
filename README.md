@@ -53,7 +53,7 @@ Mikrokontroler mengontrol lampu berdasarkan data sensor dan waktu.
 Data dikirim ke platform cloud untuk pemantauan jarak jauh.
 
 # 🧩 Blok Diagram
-![Diagram Blok Sistem](<Smart-Solar-Street-Light/Diagram-Blok-Sistem.png>)
+![Diagram Blok Sistem](Diagram-Blok-Sistem.png)
 
 # 📸 Demo / Ilustrasi
 (Sisipkan diagram, foto prototipe, atau link video demo)
