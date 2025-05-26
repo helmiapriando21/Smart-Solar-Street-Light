@@ -18,8 +18,8 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 
 * Ramah lingkungan dan efisien dalam penggunaan energi.
 
-# 🧰 Komponen yang Diperlukan
-## 📦 Alat
+## 🧰 Komponen yang Diperlukan
+### 📦 Alat
 | No. | Alat                    | Fungsi                                                                 |
 |-----|-------------------------|------------------------------------------------------------------------|
 | 1   | ESP32                   | Mikrokontroler utama untuk kontrol sistem dan koneksi ke cloud         |
@@ -31,7 +31,7 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 | 7   | LCD/OLED Display        | Menampilkan informasi seperti waktu, suhu, dan status sistem           |
 | 8   | Kamera                  | (Opsional) Digunakan untuk pemantauan visual atau keamanan             |
 
-## 📡 Sensor atau Modul
+### 📡 Sensor atau Modul
 
 | No. | Sensor/Modul        | Fungsi                                                                 |
 |-----|---------------------|------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 | 4   | RTC Module          | Menyediakan waktu dan tanggal yang akurat                              |
 | 5   | Cloud (Firebase / Blynk) | Platform monitoring dan kontrol jarak jauh                       |
 
-## 📌 Cara Kerja Sistem
+### 📌 Cara Kerja Sistem
 
 1. **Energi Matahari** mengisi baterai melalui **solar panel** dan **solar charge controller**.
 2. **LDR** mendeteksi terang/gelap untuk menentukan waktu siang/malam.
@@ -56,10 +56,10 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 # 🧩 Diagram Blok Sistem
 ![Diagram Blok Sistem](Diagram-Blok-Sistem.png)
 
-# 💥Desain Sistem UI/UX
-## 📱 Software
+## 💥Desain Sistem UI/UX
+### 📱 Software
 
-## 💽 Hardware
+### 💽 Hardware
 
 # 📸 Demo / Ilustrasi
 
