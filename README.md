@@ -64,7 +64,6 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 ## 💽 Hardware
 
 # 📸 Demo / Ilustrasi
-(Sisipkan diagram, foto prototipe, atau link video demo)
 
 # 🫂 Kelompok 2
 1. **105221004 | Helmi Apriando**
