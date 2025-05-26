@@ -67,7 +67,8 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 (Sisipkan diagram, foto prototipe, atau link video demo)
 
 # 👤 Kelompok 2
-**1. 105221004 | Helmi Apriando
-2. 105221027 | Mohamad Reza Pahlevi**
+
+**1. 105221004 | Helmi Apriando**
+**2. 105221027 | Mohamad Reza Pahlevi**
 
 [LinkedIn/GitHub/Website jika ada]
