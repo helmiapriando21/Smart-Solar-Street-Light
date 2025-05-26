@@ -7,25 +7,36 @@ Sistem ini dirancang untuk:
 
 * Memantau status lampu secara real-time melalui platform cloud.
 
-🎯 SDG 7: Clean and Affordable Energy
+# 🎯 SDG 7: Clean and Affordable Energy
 
-🚀 Fitur Utama
-Otomatisasi pengendalian lampu jalan tenaga surya.
+# 🚀 Fitur Utama
+* Otomatisasi pengendalian lampu jalan tenaga surya.
 
-Pemantauan status lampu secara real-time melalui koneksi cloud.
+* Pemantauan status lampu secara real-time melalui koneksi cloud.
 
-Ramah lingkungan dan efisien dalam penggunaan energi.
+* Ramah lingkungan dan efisien dalam penggunaan energi.
 
-🧰 Teknologi yang Digunakan
-Mikrokontroler: ESP32 (dengan ESP-IDF)
+# 🧰 Teknologi yang Digunakan
+📦 Komponen Perangkat Keras
+No.	Komponen	Fungsi
+1	ESP32	Mikrokontroler utama untuk kontrol sistem dan koneksi ke cloud
+2	Solar Panel	Menghasilkan energi dari sinar matahari
+3	Solar Charge Controller	Mengatur pengisian daya ke baterai dari panel surya
+4	Baterai	Menyimpan energi untuk digunakan saat malam
+5	Relay Switch	Mengendalikan nyala/mati lampu LED secara elektronik
+6	Lampu LED	Sumber penerangan yang hemat energi
+7	LCD/OLED Display	Menampilkan informasi seperti waktu, suhu, dan status sistem
+8	Kamera	(Opsional) Digunakan untuk pemantauan visual atau keamanan
 
-Sensor: Sensor cahaya, arus, dan tegangan
+📡 Sensor dan Modul Pendukung
+No.	Sensor/Modul	Fungsi
+1	LDR	Mendeteksi tingkat pencahayaan lingkungan
+2	PIR Sensor	Mendeteksi pergerakan manusia untuk mengaktifkan lampu
+3	DHT11/DHT22	Mengukur suhu dan kelembapan udara
+4	RTC Module	Menyediakan waktu dan tanggal yang akurat
+5	Cloud (Firebase/Blynk)	Platform monitoring dan kontrol jarak jauh
 
-Komunikasi: Wi-Fi / MQTT
-
-Platform cloud: (contoh: Firebase, ThingsBoard, AWS IoT, dsb.)
-
-📦 Instalasi dan Setup
+# 📦 Instalasi dan Setup
 bash
 Salin
 Edit
