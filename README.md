@@ -17,7 +17,7 @@ Sistem ini dirancang untuk:
 * Ramah lingkungan dan efisien dalam penggunaan energi.
 
 # 🧰 Teknologi yang Digunakan
-📦 Komponen Perangkat Keras
+## 📦 Komponen Perangkat Keras
 No.	Komponen	Fungsi
 1	ESP32	Mikrokontroler utama untuk kontrol sistem dan koneksi ke cloud
 2	Solar Panel	Menghasilkan energi dari sinar matahari
@@ -28,7 +28,7 @@ No.	Komponen	Fungsi
 7	LCD/OLED Display	Menampilkan informasi seperti waktu, suhu, dan status sistem
 8	Kamera	(Opsional) Digunakan untuk pemantauan visual atau keamanan
 
-📡 Sensor dan Modul Pendukung
+## 📡 Sensor dan Modul Pendukung
 No.	Sensor/Modul	Fungsi
 1	LDR	Mendeteksi tingkat pencahayaan lingkungan
 2	PIR Sensor	Mendeteksi pergerakan manusia untuk mengaktifkan lampu
