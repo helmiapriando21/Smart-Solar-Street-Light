@@ -1,28 +1,26 @@
 # 🌞 Smart Solar Street Light (Remote Monitor)
-# 📖 Deskripsi Proyek
+## 📖 Deskripsi Singkat
 Smart Solar Street Light adalah sistem lampu jalan pintar berbasis energi surya yang dapat dipantau secara jarak jauh melalui platform cloud. Sistem ini bertujuan untuk menghemat energi dengan mengontrol nyala/mati lampu secara otomatis berdasarkan kondisi lingkungan dan aktivitas manusia. Tujuan Proyek ini juga guna memenuhi **Tugas Besar Mata Kuliah Mikrokontroler dan IoT**.
 
-## 🎯 Sistem ini dirancang untuk:
-
+## 🎯 Tujuan
 - Menghemat energi dengan mengontrol lampu jalan secara otomatis.
 
 - Memantau status lampu secara real-time melalui platform cloud.
 
-# 🌍 Kontribusi terhadap SDGs
+## 🌍 SDGs yang Disasar
 ✅ SDG 7 - Clean Energy
 Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi menuju energi terbarukan dan efisiensi energi. 
 
-# 🚀 Fitur Utama
+## 🚀 Fitur Utama
 * Otomatisasi pengendalian lampu jalan tenaga surya.
 
 * Pemantauan status lampu secara real-time melalui koneksi cloud.
 
 * Ramah lingkungan dan efisien dalam penggunaan energi.
 
-# 🧰 Teknologi yang Digunakan
-## 📦 Komponen Perangkat Keras
-
-| No. | Komponen                | Fungsi                                                                 |
+# 🧰 Komponen yang Diperlukan
+## 📦 Alat
+| No. | Alat                    | Fungsi                                                                 |
 |-----|-------------------------|------------------------------------------------------------------------|
 | 1   | ESP32                   | Mikrokontroler utama untuk kontrol sistem dan koneksi ke cloud         |
 | 2   | Solar Panel             | Menghasilkan energi dari sinar matahari                                |
@@ -33,7 +31,7 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
 | 7   | LCD/OLED Display        | Menampilkan informasi seperti waktu, suhu, dan status sistem           |
 | 8   | Kamera                  | (Opsional) Digunakan untuk pemantauan visual atau keamanan             |
 
-## 📡 Sensor dan Modul Pendukung
+## 📡 Sensor atau Modul
 
 | No. | Sensor/Modul        | Fungsi                                                                 |
 |-----|---------------------|------------------------------------------------------------------------|
