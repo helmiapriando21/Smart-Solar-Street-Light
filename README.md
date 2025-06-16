@@ -55,6 +55,7 @@ Dengan memanfaatkan energi matahari, sistem ini berkontribusi dalam transisi men
     
 ## 🧩 Diagram Blok Sistem
 ![Diagram Blok Sistem](Diagram-Blok-Sistem.png)
+Sistem Smart Solar Street Light dimulai dari panel surya yang menangkap energi matahari dan mengubahnya menjadi listrik. Energi ini kemudian diatur oleh pengontrol tegangan surya sebelum disimpan ke dalam baterai sebagai sumber daya utama sistem. Dari baterai, energi dialirkan ke ESP32 sebagai otak mikrokontroler yang mengelola seluruh alur kerja sistem. Berbagai sensor seperti LDR, DHT, PIR, dan RTC memberikan input ke ESP32 berupa data pencahayaan, suhu/kelembapan, pergerakan manusia, dan waktu. Berdasarkan data tersebut, ESP32 akan memutuskan kapan relay switch diaktifkan untuk menyalakan atau mematikan lampu LED. Selain itu, informasi sistem akan ditampilkan melalui display (LCD/OLED), dan dapat pula mengaktifkan kamera (opsional) untuk pemantauan visual area. Seluruh status dan data dari sistem dikirimkan secara real-time ke platform cloud (seperti Blynk atau Firebase RTDB) untuk memungkinkan pemantauan jarak jauh dan kontrol sistem secara efisien.
 
 ## 💥Desain Sistem UI/UX
 ### 📱 Software
