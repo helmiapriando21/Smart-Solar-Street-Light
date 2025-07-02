@@ -66,6 +66,9 @@ Sistem Smart Solar Street Light dimulai dari panel surya yang menangkap energi m
 
 ## 💥Desain Sistem UI/UX
 ### 📱 Software
+<p align="center">
+  <img src="Software.png" alt="Software" style="width:100%; max-width:1000px;">
+</p>
 
 ### 💽 Hardware
 <p align="center">
