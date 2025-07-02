@@ -68,6 +68,9 @@ Sistem Smart Solar Street Light dimulai dari panel surya yang menangkap energi m
 ### 📱 Software
 
 ### 💽 Hardware
+<p align="center">
+  <img src="Hardware.png" alt="Hardware" style="width:100%; max-width:1000px;">
+</p>
 
 ## 📸 Demo / Ilustrasi
 
