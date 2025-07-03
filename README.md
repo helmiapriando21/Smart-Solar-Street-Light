@@ -75,8 +75,6 @@ Sistem Smart Solar Street Light dimulai dari panel surya yang menangkap energi m
   <img src="Hardware.png" alt="Hardware" style="width:100%; max-width:1000px;">
 </p>
 
-## 📸 Demo / Ilustrasi
-
 ## 🫂 Kelompok 2
 1. **105221004 | Helmi Apriando**
 2. **105221027 | Mohamad Reza Pahlevi**
